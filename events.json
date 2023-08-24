@@ -1,0 +1,196 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Night to Remember",
+      "organizer": "Trance",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 2,
+      "name": "Night to Remember",
+      "organizer": "Davido",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load"
+    },
+    {
+      "id": 3,
+      "name": "Night to Remember",
+      "organizer": "Wizkid",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://images.pexels.com/photos/16637458/pexels-photo-16637458/free-photo-of-rock-band-concert.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load"
+    },
+    {
+      "id": 4,
+      "name": "Night to Remember",
+      "organizer": "Medici",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://images.pexels.com/photos/3563173/pexels-photo-3563173.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load"
+    },
+    {
+      "id": 5,
+      "name": "Night to Remember",
+      "organizer": "Armani Studios",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://cdn.pixabay.com/photo/2016/11/23/15/48/audience-1853662_1280.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Night to Remember",
+      "organizer": "Studio One",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://images.pexels.com/photos/1540343/pexels-photo-1540343.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load"
+    },
+    {
+      "name": "Test4",
+      "organizer": "Test4",
+      "price": "Test4",
+      "date": "Test4",
+      "time": "Test4",
+      "location": "Test4",
+      "about": "Test4",
+      "Imageurl": "Test4",
+      "id": 7
+    },
+    {
+      "name": "Test51",
+      "organizer": "Test51",
+      "price": "Test51",
+      "date": "Test51",
+      "time": "Test51",
+      "location": "Test51",
+      "about": "Test51",
+      "Imageurl": "Test51",
+      "id": 8
+    },
+    {
+      "name": "Test52",
+      "organizer": "Test52",
+      "price": "Test52",
+      "date": "Test52",
+      "time": "Test52",
+      "location": "Test52",
+      "about": "Test52",
+      "Imageurl": "Test52",
+      "id": 9
+    }
+  ],
+  "myevents": [
+    {
+      "name": "Nana",
+      "organizer": "Nana",
+      "price": "Nana",
+      "date": "Nana",
+      "time": "Nana",
+      "location": "Nana",
+      "about": "Nana",
+      "Imageurl": "Nana",
+      "id": 6
+    },
+    {
+      "id": 4,
+      "name": "Night to Remember",
+      "organizer": "Medici",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://images.pexels.com/photos/3563173/pexels-photo-3563173.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load"
+    },
+    {
+      "id": 5,
+      "name": "Night to Remember",
+      "organizer": "Armani Studios",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://cdn.pixabay.com/photo/2016/11/23/15/48/audience-1853662_1280.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Night to Remember",
+      "organizer": "Studio One",
+      "price": "$23.00",
+      "date": "August 25th 2023",
+      "time": "12 - 1am GMT",
+      "location": "Online",
+      "about": "Everything You Need To Get Anything You Want!\n Free webinar with Dr. Herbert Harris to give you a SUCCESS BOOST.",
+      "Imageurl": "https://images.pexels.com/photos/1540343/pexels-photo-1540343.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load"
+    },
+    {
+      "name": "Test4",
+      "organizer": "Test4",
+      "price": "Test4",
+      "date": "Test4",
+      "time": "Test4",
+      "location": "Test4",
+      "about": "Test4",
+      "Imageurl": "Test4",
+      "id": 7
+    },
+    {
+      "name": "Test51",
+      "organizer": "Test51",
+      "price": "Test51",
+      "date": "Test51",
+      "time": "Test51",
+      "location": "Test51",
+      "about": "Test51",
+      "Imageurl": "Test51",
+      "id": 8
+    },
+    {
+      "name": "Test52",
+      "organizer": "Test52",
+      "price": "Test52",
+      "date": "Test52",
+      "time": "Test52",
+      "location": "Test52",
+      "about": "Test52",
+      "Imageurl": "Test52",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user",
+      "email": "user@gmail.com"
+    }
+  ]
+}
